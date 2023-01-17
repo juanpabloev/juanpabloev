@@ -13,7 +13,7 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 
 
 <p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma)](https://skillicons.dev)
 </p>
 
 
