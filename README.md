@@ -1,17 +1,17 @@
-#### Hola , Soy Juan Pablo Evangelista
+<h1> Hola , Soy Juan Pablo Evangelista</h1>
 
 
 
 
-##Sobre mi
+<h3>Sobre mi</h3>
 <hr/>
 Soy un fullstack web developer con orientacion al backend con una gran passion por el aprendizaje y abierto a nuevos desafios
 
-##Tecnologias
+<h3>Tecnologias</h3>
 <hr/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma)](https://skillicons.dev)
 
-##Contacto
+<h3>Contacto</h3>
 <hr/>
 <a href="[https://skillicons.dev](https://www.linkedin.com/in/juan-pablo-evangelista-240247163/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
