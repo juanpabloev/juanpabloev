@@ -1,11 +1,13 @@
 <h1> Hola :wave:   , Soy Juan Pablo Evangelista</h1>
+<hr/>
 <br/>
 <br/>
 
 
 <h3>Sobre mi :grey_question: </h3>
-<br/>
 <hr/>
+<br/>
+
 Soy un fullstack web developer con orientacion al backend con una gran passion por el aprendizaje y abierto a nuevos desafios
 
 <h3>Tecnologias :star:</h3>
