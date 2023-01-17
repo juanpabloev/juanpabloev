@@ -9,7 +9,7 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 
 <h3>Tecnologias :star:</h3>
 <hr/>
-<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias actualmente conosco:</p>
+<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias, actualmente conozco:</p>
 
 
 <p>
