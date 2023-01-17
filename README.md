@@ -9,8 +9,9 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 
 <h3>Tecnologias</h3>
 <hr/>
+<p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma)](https://skillicons.dev)
-
+</p>
 <h3>Contacto</h3>
 <hr/>
 <a href="[https://skillicons.dev](https://www.linkedin.com/in/juan-pablo-evangelista-240247163/)">
