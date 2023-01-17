@@ -9,7 +9,12 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 
 <h3>Tecnologias :star:</h3>
 <hr/>
-<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias actualmente conosco;</p>
+<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias actualmente conosco:</p>
+
+
+<p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma)](https://skillicons.dev)
+</p>
 
 
 <h3>Contacto :mega:</h3>
