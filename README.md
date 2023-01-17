@@ -20,8 +20,10 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 <h3>Contacto :mega:</h3>
 <hr/>
 contactame a traves de:
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-evangelista-240247163/)
- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpicap23@gmail.com)
+
+<a href="https://www.linkedin.com/in/juan-pablo-evangelista-240247163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:juanpicap23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
  
 
 
