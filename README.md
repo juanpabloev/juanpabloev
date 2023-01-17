@@ -19,7 +19,7 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 
 <h3>Contacto :mega:</h3>
 <hr/>
-<a href="[https://skillicons.dev](https://www.linkedin.com/in/juan-pablo-evangelista-240247163/)">
+<a href="https://www.linkedin.com/in/juan-pablo-evangelista-240247163/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
  </a>
 
