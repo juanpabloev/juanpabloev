@@ -10,7 +10,7 @@ Soy un fullstack web developer con orientacion al backend con una gran passion p
 <h3>Tecnologias</h3>
 <hr/>
 <p>
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma&perline=1"/>
 
 </p>
 <h3>Contacto</h3>
