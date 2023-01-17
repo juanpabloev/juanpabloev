@@ -1,19 +1,19 @@
-<h1> Hola , Soy Juan Pablo Evangelista</h1>
+<h1> Hola :wave:   , Soy Juan Pablo Evangelista</h1>
 
 
 
 
-<h3>Sobre mi</h3>
+<h3>Sobre mi :grey_question: </h3>
 <hr/>
 Soy un fullstack web developer con orientacion al backend con una gran passion por el aprendizaje y abierto a nuevos desafios
 
-<h3>Tecnologias</h3>
+<h3>Tecnologias :star:</h3>
 <hr/>
-<p>
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma&perline=1"/>
+<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias actualmente conosco;</p>
+ <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma&perline=1"/>
 
-</p>
-<h3>Contacto</h3>
+
+<h3>Contacto :mega:</h3>
 <hr/>
 <a href="[https://skillicons.dev](https://www.linkedin.com/in/juan-pablo-evangelista-240247163/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
