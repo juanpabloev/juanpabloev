@@ -1,26 +1,26 @@
-<h1> Hola :wave:   , Soy Juan Pablo Evangelista</h1>
+<h1> Hello :wave:   , I'm Juan Pablo Evangelista</h1>
 
 
 
 
-<h3>Sobre mi :grey_question: </h3>
+<h3>About :grey_question: </h3>
 <hr/>
-Soy un fullstack web developer con orientacion al backend con una gran passion por el aprendizaje y abierto a nuevos desafios
+A full stack web developer with backend orientation, I have a passion for learning new things and always open for tough challenges
 <br/>
 
-<h3>Tecnologias :star:</h3>
+<h3>Technologies :star:</h3>
 <hr/>
 
-<p>Gracias a SoyHenry y el deseo de aprender nuevas tecnologias, actualmente conozco:</p>
+<p>Thanks to SoyHenry and my desire to learn, I currently know :</p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma"/>
 </p>
 
 
-<h3>Contacto :mega:</h3>
+<h3>Contact :mega:</h3>
 <hr/>
-Contactame a traves de:
+Contact me through:
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/juan-pablo-evangelista-240247163/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
